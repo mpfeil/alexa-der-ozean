@@ -6,9 +6,18 @@ var languageStrings = {
     "de-DE": {
         "translation": {
             "FACTS": [
-                "Ein Synonym für den Ozean ist Weltmeer.",
-                "Insgesamt sind 71 Prozent der Erde von Meeren bedeckt.",
-                "Es gibt fünf Ozeane. Diese lauten: Arktischer Ozean, Atlantischer Ozean, Indischer Ozean, Pazifischer Ozean und Antarktischer Ozean."
+                '71 % der Erdoberfläche sind von Meeren bedeckt.',
+                'Die fünf Ozeane der Erde: Arktischer Ozean, Atlantischer Ozean, Indischer Ozean, Pazifischer Ozean, Antarktischer Ozean.',
+                'Der Mond ist besser erforscht als die Weltmeere (nur 1% der Tiefsee sind erforscht).',
+                'Der tiefste Punkt der Tiefsee ist der Marianengraben mit ca. 11 km.',
+                'Der größte Meeresbewohner ist der Blauwal (bis zu 33,6 m lang und 200 t schwer).',
+                '31,7 % der Weltmeere sind 4000 bis 5000 m tief.',
+                'Etwa 6,4 Mio. Tonnen Plastikmüll befinden sich derzeit in den Ozeanen.',
+                '90% der Vulkane auf der Erde befinden sich Unterwasser, sogenannte Schwarze Raucher, die Minerale aus dem Meeresboden lösen.',
+                'Das Meerwasser hat einen Salzgehalt von durchschnittlich 3,5 %.',
+                'Das Meer produziert ca. 70 % des Sauerstoffs, den die Menschen atmen und ist damit einer der bedeutendsten Faktoren, die Leben überhaupt möglich machen.',
+                'Im Meer leben rund 250.000 verschiedene Tierarten.',
+                'Quallen bevölkern das Meer bereits seit mehr als 500 Mio. Jahren'
             ],
             "SKILL_NAME" : "Der Ozean",
             "GET_FACT_MESSAGE" : "Hier sind deine Fakten: ",
