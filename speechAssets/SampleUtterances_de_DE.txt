@@ -1,0 +1,14 @@
+GetNewFactIntent ein Fakt
+GetNewFactIntent ein Fakt über den Ozean
+GetNewFactIntent sage mir ein Fakt
+GetNewFactIntent sage mir ein Fakt über den Ozean
+GetNewFactIntent gib mir ein Fakt
+GetNewFactIntent gib mir ein Fakt über den Ozean
+GetNewFactIntent erzähle mir Wissenswertes
+GetNewFactIntent erzähle mir Wissenswertes über den Ozean
+GetNewFactIntent sage mir etwas Wissenswertes
+GetNewFactIntent sage mir etwas wissenswertes über den Ozean
+GetNewFactIntent gib mir Informationen
+GetNewFactIntent gib mir Informationen über den Ozean
+GetNewFactIntent sage mir etwas
+GetNewFactIntent erzähle mir etwas

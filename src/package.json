@@ -1,0 +1,28 @@
+{
+  "name": "alexa-der-ozean",
+  "version": "1.0.0",
+  "description": "Alexa erzählt dir Wissenswertes über den Ozean.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "fussball",
+    "weisheiten"
+  ],
+  "author": "Matthias <matthias.pfeil@wwu.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpfeil/alexa-fussball-weisheiten.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpfeil/alexa-fussball-weisheiten/issues"
+  },
+  "homepage": "https://github.com/mpfeil/alexa-fussball-weisheiten#readme",
+}
